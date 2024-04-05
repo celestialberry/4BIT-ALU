@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Mar 13 11:45:23 2024
+# Process ID: 7160
+# Current directory: C:/Desktop/ALU_4BIT/ALU_4BIT.runs/synth_1
+# Command line: vivado.exe -log ALU_4BIT.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ALU_4BIT.tcl
+# Log file: C:/Desktop/ALU_4BIT/ALU_4BIT.runs/synth_1/ALU_4BIT.vds
+# Journal file: C:/Desktop/ALU_4BIT/ALU_4BIT.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ALU_4BIT.tcl -notrace
